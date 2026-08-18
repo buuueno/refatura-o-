@@ -1,0 +1,12 @@
+{
+  "name": "exercicio-2-arquitetura-em-camadas",
+  "version": "1.0.0",
+  "description": "Refatoração do pedidos-monolito.js para o estilo em camadas",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
